@@ -36,3 +36,5 @@ vim.g.mapleader = " "
 
 vim.g.virtualedit = "all"
 
+vim.keymap.set('n', '<leader>pv', vim.cmd.Ex)
+
