@@ -2,10 +2,10 @@
 My first swing at setting up a neovim environment and the dotfiles that go along with it.
 
 # Required
-###  ![](https://avatars.githubusercontent.com/u/6471485?s=48&v=4) Neovim
+### <img src="https://avatars.githubusercontent.com/u/6471485?s=48&v=4" width="30" height="30"> Neovim
 [Install Instructions](https://github.com/neovim/neovim/blob/master/INSTALL.md)
 
-### ![](https://www.lazyvim.org/img/icon.svg) Packer
+### <img src="https://www.lazyvim.org/img/icon.svg" width="30" height="30"> LazyVim
 [Install Instructions](https://lazy.folke.io)
 
 # Goals
