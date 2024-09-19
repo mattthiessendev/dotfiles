@@ -8,6 +8,9 @@ My first swing at setting up a neovim environment and the dotfiles that go along
 ### <img src="https://www.lazyvim.org/img/icon.svg" width="30" height="30"> LazyVim
 [Install Instructions](https://lazy.folke.io)
 
+### ripgrep
+[Install Instructions](https://github.com/BurntSushi/ripgrep?tab=readme-ov-file#installation)
+
 # Goals
 - Create a windows friendly install script
 - Add a smoother debugging experience
