@@ -11,6 +11,11 @@ My first swing at setting up a neovim environment and the dotfiles that go along
 ### ripgrep
 [Install Instructions](https://github.com/BurntSushi/ripgrep?tab=readme-ov-file#installation)
 
+# Optional
+### <img src="https://alacritty.org/alacritty-simple.svg" width="30" height="30"> Alacritty
+[Install](https://alacritty.org/index.html#Installation)
+[Configuration](https://alacritty.org/config-alacritty.html)
+
 # Goals
 - Create a windows friendly install script
 - Add a smoother debugging experience
