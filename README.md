@@ -17,10 +17,9 @@ My first swing at setting up a neovim environment and the dotfiles that go along
 [Configuration](https://alacritty.org/config-alacritty.html)
 
 # Goals
-- Create a windows friendly install script
 - Add a smoother debugging experience
 
-# Keymaps (WIP)
+# Keymaps
 |Key|Package|Action|
 |-|-|-|
 |\<leader\>pv|vim|cmd.Ex|
@@ -33,19 +32,6 @@ My first swing at setting up a neovim environment and the dotfiles that go along
 |\<C-t|harpoon|nav_file(2)|
 |\<C-n|harpoon|nav_file(3)|
 |\<C-s|harpoon|nav_file(4)|
-|\<F5\>|dap|continue()|
-|\<F10\>|dap|step_over()|
-|\<F11\>|dap|step_into()|
-|\<F12\>|dap|step_out()|
-|\<leader\>b|dap|toggle_breakpoint()|
-|\<leader\>B|dap|set_breakpoint()|
-|\<leader\>lp|dap|set_breakpoint("Log Message")|
-|\<leader\>dr|dap|repl.open()|
-|\<leader\>dl|dap|run_last()|
-|\<leader\>dh|dap|ui.widgets.hover()|
-|\<leader\>dp|dap|ui.widgets.preview()|
-|\<leader\>df|dap|ui.widgets.centered_float(frames)|
-|\<leader\>ds|dap|ui.widgets.centered_float(scopes)|
 |gd|lsp-zero|buf.definition()|
 |K|lsp-zero|buf.hover()|
 |\<leader\>vws|lsp-zero|buf.workspace_symbol()|
