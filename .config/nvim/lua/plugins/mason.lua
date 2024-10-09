@@ -4,6 +4,8 @@ return {
         lazy = false,
         config = true,
     },
-    {'williamboman/mason-lspconfig.nvim'},
+    {
+        'williamboman/mason-lspconfig.nvim',
+    },
 }
 
