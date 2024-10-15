@@ -17,6 +17,7 @@ My first swing at setting up a neovim environment and the dotfiles that go along
 [Configuration](https://alacritty.org/config-alacritty.html)
 
 # Goals
+- Centralize key maps
 - Add a smoother debugging experience
 
 # Keymaps
